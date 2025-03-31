@@ -1,6 +1,9 @@
-public class olamundo {
-  public static void main(String args[]) {
+package olamundo;
 
-    System.out.println("Olá, Mundo");
-  }
+public class Olamundo {
+
+    public static void main(String[] args) {
+        System.out.println("Olá Mundo");
+    }
+
 }
